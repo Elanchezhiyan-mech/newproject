@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}.header{
+    background-color: rgb(166, 249, 249);
+    color: rgb(58, 57, 54);
+    padding: 10px;
+
+   
+}
+ul,li{
+    display: inline;
+    margin-left: 10px;
+    cursor: pointer;
+ 
+}
+li:hover{
+    color: rgb(111, 170, 234);
+}
+.img{
+    display: block;
+    margin-top: 20px;
+    width: 220px;
+    height: 220px;
+    background-color: rgb(222, 234, 147);
+    color: black;
+    padding: 10px;
+   
+}
+.topic{
+    display: inline;
+display: inline-block;
+}
+.boy{
+    color: brown;
+    display: inline-block;
+
+}
+
+.about{
+    background-color: beige;
+    color:blue;
+    display: inline-block;
+    width: 100px;
+    
+}
+.par{
+    
+    width: 600px;
+    background-color: rgb(218, 245, 186);
+}
